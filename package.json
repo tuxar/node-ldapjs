@@ -7,7 +7,7 @@
     "Trent Mick <trentm@gmail.com>",
     "Yunong Xiao <yunong@joyent.com>"
   ],
-  "name": "ldapjs",
+  "name": "ldapjs-jc",
   "homepage": "http://ldapjs.org",
   "description": "LDAP client and server APIs",
   "version": "0.5.7",
